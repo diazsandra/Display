@@ -9,6 +9,7 @@ div {
 	width: 30%;
 	font-size: 150%;
 	margin-bottom: 2%;
+	display: inline-block;
 }
 .pdl5 {
 	padding-left: 2%;
