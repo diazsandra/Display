@@ -1,15 +1,18 @@
 .amarillo {
-	background-color: yellow;	
+	background-color: #F6CEE3;	
 }
 .rojo {
-	background-color: red;
+	background-color: #F3F781;
 }
 div {
-	height: 25%;
+	height: 40%;
 	width: 30%;
-	font-size: 150%;
-	margin-bottom: 2%;
-	display: inline-block;
+	font-size: 100%;
+	margin: 50% 2%;
+	display: inline;
+}
+p {
+	display: inline;
 }
 .pdl5 {
 	padding-left: 2%;
